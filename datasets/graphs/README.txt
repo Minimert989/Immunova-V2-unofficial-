@@ -1,0 +1,1 @@
+# This folder can hold drug interaction graphs.

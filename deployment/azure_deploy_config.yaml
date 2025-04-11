@@ -1,0 +1,6 @@
+services:
+  - name: immunova-api
+    image: immunova:latest
+    resources:
+      cpu: 1
+      memory: 2Gi

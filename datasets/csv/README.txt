@@ -1,0 +1,1 @@
+# This folder contains label and metadata CSV files.

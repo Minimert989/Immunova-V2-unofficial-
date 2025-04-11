@@ -1,0 +1,1 @@
+# This folder stores image patches without TIL.

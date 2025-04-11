@@ -1,0 +1,44 @@
+/* frontend/styles.css */
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f6f8fa;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+  background: #ffffff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+h1, h2 {
+  color: #2b4c7e;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #2b4c7e;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4169a6;
+}
+
+pre {
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 5px;
+  font-size: 14px;
+  white-space: pre-wrap;
+}

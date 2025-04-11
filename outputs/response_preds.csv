@@ -1,0 +1,4 @@
+patient_id,response_score,response_binary
+P001,0.87,1
+P002,0.42,0
+P003,0.76,1

@@ -1,0 +1,4 @@
+patient_id,progression_risk,toxicity_risk,other_risk
+P001,0.31,0.12,0.05
+P002,0.55,0.21,0.1
+P003,0.48,0.19,0.08

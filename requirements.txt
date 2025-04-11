@@ -1,0 +1,11 @@
+torch
+torchvision
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+fastapi
+uvicorn
+opencv-python
+lifelines

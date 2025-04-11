@@ -1,0 +1,28 @@
+<!-- frontend/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Immunova Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🧬 Immunova: Pancreatic Cancer Analysis</h1>
+    
+    <section id="upload">
+      <h2>Upload Patient Data</h2>
+      <input type="file" id="dataFile" accept=".csv" />
+      <button onclick="uploadData()">Submit</button>
+    </section>
+
+    <section id="results">
+      <h2>🩺 Prediction Results</h2>
+      <pre id="output">Awaiting input...</pre>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
